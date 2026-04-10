@@ -7,5 +7,11 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="sanutil" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="SankhyaW-extensions" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="jape" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="mge-modelcore" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="javax.servlet" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="sanws" level="project" />
   </component>
 </module>

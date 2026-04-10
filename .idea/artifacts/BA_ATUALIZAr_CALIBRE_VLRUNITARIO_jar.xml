@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BA-ATUALIZAr-CALIBRE-VLRUNITARIO:jar">
+    <output-path>$USER_HOME$/eclipse-workspace/eclipse-workspace/jars/BA-ATUALIZAR-CALIBRE-VLRUNITARIO</output-path>
+    <root id="archive" name="BA-ATUALIZAr-CALIBRE-VLRUNITARIO.jar">
+      <element id="module-output" name="BA-ATUALIZAr-CALIBRE-VLRUNITARIO" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava/jape.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava/mge-modelcore.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava/javax.servlet.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava/SankhyaW-extensions.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava/sanutil.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../SDK/Bibliotecas-Sankya-Padroes-LIB-main/repo-bibliotecasJava/sanws.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
