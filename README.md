@@ -142,7 +142,7 @@ flowchart TD
     N --> O[Recalcula impostos via ImpostosHelpper]
     O --> P[Exibe resposta HTML com resumo]
 
-    style A fill:#e8f5e9,stroke:#274135
+    style A fill:#000080,stroke:#274135
     style P fill:#e8f5e9,stroke:#274135
     style G fill:#ffebee,stroke:#c62828
     style K fill:#fff3e0,stroke:#e65100
