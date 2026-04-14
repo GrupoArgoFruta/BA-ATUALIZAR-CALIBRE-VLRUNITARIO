@@ -145,8 +145,8 @@ flowchart TD
     style A fill:#000080,stroke:#274135
     style P fill:#e8f5e9,stroke:#274135
     style G fill:#DC143C,stroke:#c62828
-    style K fill:#fff3e0,stroke:#e65100
-    style L fill:#e3f2fd,stroke:#1565c0
+    style K fill:#DC143C,stroke:#e65100
+    style L fill:#32CD32,stroke:#1565c0
     style O fill:#f3e5f5,stroke:#6a1b9a
 ```
 
